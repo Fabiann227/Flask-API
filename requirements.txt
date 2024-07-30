@@ -1,0 +1,7 @@
+Flask
+flask-restful
+flask-cors
+flask-jwt-extended
+werkzeug
+mysql-connector-python
+flask-swagger-ui
