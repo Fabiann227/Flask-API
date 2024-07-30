@@ -19,7 +19,7 @@ api.add_resource(ProtectedResource, '/api/protected')
 
 @app.route('/')
 def root():    
-    return "Hello"
+    return "'localhost:5000/api/docs' to see documentation"
 
 @app.route('/api/swagger.json')
 def serve_openapi_spec():
