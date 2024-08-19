@@ -3,9 +3,6 @@
 
 API ini dibuat menggunakan Flask untuk autentikasi pengguna dengan MySQL sebagai database dan menggunakan Swagger UI untuk dokumentasi.
 
-## Buka file ini di visual studio
-- Aktifkan Preview dengan menekan Ctrl+Shift+V atau dengan mengklik ikon "Open Preview to the Side" di kanan atas.
-
 ## Run Locally
 
 Install dependencies
